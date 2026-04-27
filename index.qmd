@@ -1,0 +1,68 @@
+
+---
+title: "AI 4 CancerSurv"
+subtitle: "Cancer Surveillance and AI Interest Group"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    css: styles.css
+    title-block-banner: false
+---
+
+::: {.hero}
+
+### CSU Hackathon on Cancer Surveillance and AI
+
+The CSU/IARC Hackathon on Cancer Surveillance and AI brings together people interested in leveraging practical applications of AI for cancer surveillance. This is a collaborative, hands-on meeting and a free, informal discussion space to explore how artificial intelligence, agentic workflows, and modern data tools can advance cancer surveillance research and foster collaboration.
+
+Each session features an invited presenter who shares a project, idea, or tool, followed by open discussion and brainstorming with participants. This is a collaborative, low-pressure environment focused on discussion and idea exchange rather than formal outcomes. Participants are welcome to simply listen, ask questions, and contribute ideas.
+
+:::
+
+## Next meeting AI4CS
+
+Live at [your-github-pages-link] + searchable Wiki.
+
+- **Next session:** [14/05/2026]
+- **Location:** [TBD / IARC building]
+- **Time:** [4pm-5:30pm]
+- **Online:** [Teams / Zoom / link]
+
+Starting May 14th, 2026, AI4CS meets 4:00-5:30pm at IARC(webconf MSTeams) 
+
+- Jornal club (20 min)
+- GLOBOCAN chatBot (Yasmmin)
+
+::: {.highlight}
+:::
+
+## Join
+
+Just show up at the meeting site and introduce yourself. Remote participation will also be available You are welcome whenever you have the time, or a problem. Better both. To engage and contribute to agenda see contacts. 
+
+::: {.highlight}
+:::
+
+## Contact
+
+- Adalberto M. Filho  
+- Kevin Martinez Folgar  
+- Yasmmin Martins
+
+::: {.highlight}
+:::
+
+
+## Resources
+
+- [Hackathon Wiki](#)
+- [Shared notes](#)
+- [Code repository](#)
+- [Session archive](#)
+
+
+---
+
+This page can be hosted with GitHub Pages.
